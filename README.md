@@ -7,8 +7,8 @@ The game of BattleShip is implemented. The game starts with each player secretly
 placing their ships on their board. A ship can be placed either horizontally or vertically on their
 board. Once the players have finished placing their ships, they take turns guessing locations on
 their opponent's board to fire. Their opponent announces whether the shot hits or misses their
-ship and if it is the final hit on their ship, the fact that that shot destroyed their ship. You can [play
-a version of BattleShip here](https://www.battleshiponline.org/) and I recommend that you do so if you haven’t played the game
+ship and if it is the final hit on their ship, the fact that that shot destroyed their ship. You can play
+[a version of BattleShip here](https://www.battleshiponline.org/) and I recommend that you do so if you haven’t played the game
 before.
 
 Input
