@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/ECS 36/BattleShip/MVC/AttackResult.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Board.h
+string
+-
+vector
+-
+ShipPlacement.h
+/cygdrive/c/ECS 36/BattleShip/MVC/ShipPlacement.h
+Cell.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Cell.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Cell.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/GameAttributes.h
+istream
+-
+map
+-
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Model.h
+vector
+-
+memory
+-
+fstream
+-
+View.h
+/cygdrive/c/ECS 36/BattleShip/MVC/View.h
+Player.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Player.h
+GameAttributes.h
+/cygdrive/c/ECS 36/BattleShip/MVC/GameAttributes.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Move.h
+Player.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Player.h
+Model.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Model.h
+View.h
+/cygdrive/c/ECS 36/BattleShip/MVC/View.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Player.h
+functional
+-
+string
+-
+memory
+-
+map
+-
+Move.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Move.h
+GameAttributes.h
+/cygdrive/c/ECS 36/BattleShip/MVC/GameAttributes.h
+View.h
+/cygdrive/c/ECS 36/BattleShip/MVC/View.h
+Board.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Board.h
+AttackResult.h
+/cygdrive/c/ECS 36/BattleShip/MVC/AttackResult.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/PlayerConfiguration.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/ShipPlacement.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/StandardView.cpp
+algorithm
+-
+vector
+-
+cctype
+-
+StandardView.h
+/cygdrive/c/ECS 36/BattleShip/MVC/StandardView.h
+Utility.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Utility.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/StandardView.h
+iostream
+-
+utility
+-
+PlayerConfiguration.h
+/cygdrive/c/ECS 36/BattleShip/MVC/PlayerConfiguration.h
+View.h
+/cygdrive/c/ECS 36/BattleShip/MVC/View.h
+
+/cygdrive/c/ECS 36/BattleShip/MVC/Utility.h
+algorithm
+-
+iostream
+-
+stdexcept
+-
+random
+-
+
+/cygdrive/c/ECS 36/BattleShip/MVC/View.h
+unordered_map
+-
+PlayerConfiguration.h
+/cygdrive/c/ECS 36/BattleShip/MVC/PlayerConfiguration.h
+ShipPlacement.h
+/cygdrive/c/ECS 36/BattleShip/MVC/ShipPlacement.h
+Player.h
+/cygdrive/c/ECS 36/BattleShip/MVC/Player.h
+AttackResult.h
+/cygdrive/c/ECS 36/BattleShip/MVC/AttackResult.h
+

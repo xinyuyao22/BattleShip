@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/BattleShip.dir/main.cpp.o  -o BattleShip.exe -Wl,--out-implib,libBattleShip.dll.a -Wl,--major-image-version,0,--minor-image-version,0 MVC/libBattleshipMVC.a 

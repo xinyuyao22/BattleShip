@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BattleshipMVC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\MVC\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/ECS 36/BattleShip/cmake-build-debug/MVC"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleshipMVC">
+				<Option output="/cygdrive/c/ECS 36/BattleShip/cmake-build-debug/MVC/libBattleshipMVC.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/ECS 36/BattleShip/cmake-build-debug/MVC"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEFAULT_CONFIGURATION_LOCATION=&quot;/cygdrive/c/ECS 36/BattleShip/GameConfigurations/DefaultConfiguration.txt&quot;"/>
+					<Add directory="/cygdrive/c/ECS 36/BattleShip/MVC/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 BattleshipMVC"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleshipMVC/fast">
+				<Option output="/cygdrive/c/ECS 36/BattleShip/cmake-build-debug/MVC/libBattleshipMVC.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/ECS 36/BattleShip/cmake-build-debug/MVC"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DDEFAULT_CONFIGURATION_LOCATION=&quot;/cygdrive/c/ECS 36/BattleShip/GameConfigurations/DefaultConfiguration.txt&quot;"/>
+					<Add directory="/cygdrive/c/ECS 36/BattleShip/MVC/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 BattleshipMVC/fast"/>
+					<CompileFile command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/cygwin64/bin/make.exe -j4 -f &quot;/cygdrive/c/ECS\ 36/BattleShip/cmake-build-debug/MVC/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/AiPlayer.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/AiPlayer.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Attack.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Attack.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/AttackResult.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/AttackResult.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Board.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Board.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Cell.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Cell.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/CheatingAI.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/CheatingAI.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Controller.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Controller.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/EndGame.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/EndGame.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/GameAttributes.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/GameAttributes.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/HumanPlayer.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/HumanPlayer.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/HuntDestroyAI.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/HuntDestroyAI.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Model.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Model.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Move.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Move.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Player.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Player.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/PlayerConfiguration.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/PlayerConfiguration.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/RandomAI.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/RandomAI.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/ShipPlacement.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/ShipPlacement.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/StandardView.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/StandardView.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Utility.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/Utility.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/View.cpp">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/View.h">
+			<Option target="BattleshipMVC"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/ECS 36/BattleShip/MVC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\MVC\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
