@@ -1,5 +1,5 @@
 # BattleShip
-Impletation of the game - BattleShip
+Implementation of the game - BattleShip
 
 Problem Description
 
